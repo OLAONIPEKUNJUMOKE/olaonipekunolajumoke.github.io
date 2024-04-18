@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Hello World<h1>
-<p> This is Jumoke and I'm hosted wiyh Github pages.</p>
+<p> This is Jumoke and I'm hosted with Github pages.</p>
 </body>
 </html>
